@@ -74,3 +74,5 @@ These styles are defined in the `UserList.css` file.
 ---
 
 ## 📸 Screenshots
+
+![Screenshot 2025-05-22 at 18-52-37 User List](https://github.com/user-attachments/assets/0c5de8bc-12f0-49b7-a4a9-1cea81fa054f)
